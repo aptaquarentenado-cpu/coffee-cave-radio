@@ -1,64 +1,96 @@
-LyogQ29mZmVlIENhdmUgUmFkaW8g4oCUIExhbmRpbmcgUGFnZSBTY3JpcHQg
-Ki8KCihmdW5jdGlvbiAoKSB7CiAgJ3VzZSBzdHJpY3QnOwoKICAvKiAtLS0t
-LS0tLS0tIENvcHlyaWdodCB5ZWFyIC0tLS0tLS0tLS0gKi8KICBjb25zdCB5
-ZWFyRWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgneWVhcicpOwogIGlm
-ICh5ZWFyRWwpIHsKICAgIHllYXJFbC50ZXh0Q29udGVudCA9IG5ldyBEYXRl
-KCkuZ2V0RnVsbFllYXIoKTsKICB9CgogIC8qIC0tLS0tLS0tLS0gTW9iaWxl
-IG5hdmlnYXRpb24gdG9nZ2xlIC0tLS0tLS0tLS0gKi8KICBjb25zdCB0b2dn
-bGUgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcubWVudS10b2dnbGUnKTsK
-ICBjb25zdCBuYXYgICAgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcubmF2
-Jyk7CgogIGlmICh0b2dnbGUgJiYgbmF2KSB7CiAgICB0b2dnbGUuYWRkRXZl
-bnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0
-IGlzT3BlbiA9IG5hdi5jbGFzc0xpc3QudG9nZ2xlKCdvcGVuJyk7CiAgICAg
-IHRvZ2dsZS5zZXRBdHRyaWJ1dGUoJ2FyaWEtZXhwYW5kZWQnLCBTdHJpbmco
-aXNPcGVuKSk7CiAgICB9KTsKCiAgICAvKiBDbG9zZSBuYXYgd2hlbiBhIG5h
-diBsaW5rIGlzIHRhcHBlZCAqLwogICAgbmF2LnF1ZXJ5U2VsZWN0b3JBbGwo
-Jy5uYXYtbGluaycpLmZvckVhY2goZnVuY3Rpb24gKGxpbmspIHsKICAgICAg
-bGluay5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uICgpIHsK
-ICAgICAgICBuYXYuY2xhc3NMaXN0LnJlbW92ZSgnb3BlbicpOwogICAgICAg
-IHRvZ2dsZS5zZXRBdHRyaWJ1dGUoJ2FyaWEtZXhwYW5kZWQnLCAnZmFsc2Un
-KTsKICAgICAgfSk7CiAgICB9KTsKCiAgICAvKiBDbG9zZSBuYXYgb24gb3V0
-c2lkZSBjbGljayAqLwogICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcign
-Y2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICBpZiAoIW5hdi5jb250YWlu
-cyhlLnRhcmdldCkgJiYgIXRvZ2dsZS5jb250YWlucyhlLnRhcmdldCkpIHsK
-ICAgICAgICBuYXYuY2xhc3NMaXN0LnJlbW92ZSgnb3BlbicpOwogICAgICAg
-IHRvZ2dsZS5zZXRBdHRyaWJ1dGUoJ2FyaWEtZXhwYW5kZWQnLCAnZmFsc2Un
-KTsKICAgICAgfQogICAgfSk7CiAgfQoKICAvKiAtLS0tLS0tLS0tIFN0aWNr
-eSBoZWFkZXI6IGFkZCBzaGFkb3cgb24gc2Nyb2xsIC0tLS0tLS0tLS0gKi8K
-ICBjb25zdCBoZWFkZXIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuc2l0
-ZS1oZWFkZXInKTsKICBpZiAoaGVhZGVyKSB7CiAgICB3aW5kb3cuYWRkRXZl
-bnRMaXN0ZW5lcignc2Nyb2xsJywgZnVuY3Rpb24gKCkgewogICAgICBpZiAo
-d2luZG93LnNjcm9sbFkgPiAxNikgewogICAgICAgIGhlYWRlci5zdHlsZS5i
-b3hTaGFkb3cgPSAnMCAycHggMTZweCByZ2JhKDAsMCwwLDAuNDUpJzsKICAg
-ICAgfSBlbHNlIHsKICAgICAgICBoZWFkZXIuc3R5bGUuYm94U2hhZG93ID0g
-J25vbmUnOwogICAgICB9CiAgICB9LCB7IHBhc3NpdmU6IHRydWUgfSk7CiAg
-fQoKICAvKiAtLS0tLS0tLS0tIEludGVyc2VjdGlvbiBPYnNlcnZlcjogZmFk
-ZS1pbiBzZWN0aW9ucyAtLS0tLS0tLS0tICovCiAgY29uc3Qgc3R5bGUgPSBk
-b2N1bWVudC5jcmVhdGVFbGVtZW50KCdzdHlsZScpOwogIHN0eWxlLnRleHRD
-b250ZW50ID0gYAogICAgLmZhZGUtaW4tc2VjdGlvbiB7CiAgICAgIG9wYWNp
-dHk6IDA7CiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgyOHB4KTsKICAg
-ICAgdHJhbnNpdGlvbjogb3BhY2l0eSAwLjU1cyBlYXNlLCB0cmFuc2Zvcm0g
-MC41NXMgZWFzZTsKICAgIH0KICAgIC5mYWRlLWluLXNlY3Rpb24udmlzaWJs
-ZSB7CiAgICAgIG9wYWNpdHk6IDE7CiAgICAgIHRyYW5zZm9ybTogbm9uZTsK
-ICAgIH0KICBgOwogIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQoc3R5bGUp
-OwoKICBjb25zdCBzZWN0aW9ucyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JB
-bGwoCiAgICAnLmFib3V0LXN0cmlwLCAuY2hhcmFjdGVycywgLnZpZGVvcywg
-LnNvY2lhbHMnCiAgKTsKICBzZWN0aW9ucy5mb3JFYWNoKGZ1bmN0aW9uIChz
-ZWMpIHsKICAgIHNlYy5jbGFzc0xpc3QuYWRkKCdmYWRlLWluLXNlY3Rpb24n
-KTsKICB9KTsKCiAgaWYgKCdJbnRlcnNlY3Rpb25PYnNlcnZlcicgaW4gd2lu
-ZG93KSB7CiAgICBjb25zdCBvYnNlcnZlciA9IG5ldyBJbnRlcnNlY3Rpb25P
-YnNlcnZlcigKICAgICAgZnVuY3Rpb24gKGVudHJpZXMpIHsKICAgICAgICBl
-bnRyaWVzLmZvckVhY2goZnVuY3Rpb24gKGVudHJ5KSB7CiAgICAgICAgICBp
-ZiAoZW50cnkuaXNJbnRlcnNlY3RpbmcpIHsKICAgICAgICAgICAgZW50cnku
-dGFyZ2V0LmNsYXNzTGlzdC5hZGQoJ3Zpc2libGUnKTsKICAgICAgICAgICAg
-b2JzZXJ2ZXIudW5vYnNlcnZlKGVudHJ5LnRhcmdldCk7CiAgICAgICAgICB9
-CiAgICAgICAgfSk7CiAgICAgIH0sCiAgICAgIHsgdGhyZXNob2xkOiAwLjEy
-IH0KICAgICk7CiAgICBzZWN0aW9ucy5mb3JFYWNoKGZ1bmN0aW9uIChzZWMp
-IHsgb2JzZXJ2ZXIub2JzZXJ2ZShzZWMpOyB9KTsKICB9IGVsc2UgewogICAg
-LyogRmFsbGJhY2sgZm9yIG9sZGVyIGJyb3dzZXJzICovCiAgICBzZWN0aW9u
-cy5mb3JFYWNoKGZ1bmN0aW9uIChzZWMpIHsgc2VjLmNsYXNzTGlzdC5hZGQo
-J3Zpc2libGUnKTsgfSk7CiAgfQoKICAvKiAtLS0tLS0tLS0tIENoYXJhY3Rl
-ciBjYXJkOiBzdGFnZ2VyIGRlbGF5IC0tLS0tLS0tLS0gKi8KICBkb2N1bWVu
-dC5xdWVyeVNlbGVjdG9yQWxsKCcuY2hhcmFjdGVyLWNhcmQnKS5mb3JFYWNo
-KGZ1bmN0aW9uIChjYXJkLCBpKSB7CiAgICBjYXJkLnN0eWxlLnRyYW5zaXRp
-b25EZWxheSA9IChpICogMC4wOCkgKyAncyc7CiAgfSk7Cgp9KSgpOwo=
+/* Coffee Cave Radio - Landing Page Script */
+
+(function () {
+  'use strict';
+
+  /* ---------- Copyright year ---------- */
+  const yearEl = document.getElementById('year');
+  if (yearEl) {
+    yearEl.textContent = new Date().getFullYear();
+  }
+
+  /* ---------- Mobile navigation toggle ---------- */
+  const toggle = document.querySelector('.menu-toggle');
+  const nav    = document.querySelector('.nav');
+
+  if (toggle && nav) {
+    toggle.addEventListener('click', function () {
+      const isOpen = nav.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', String(isOpen));
+    });
+
+    /* Close nav when a nav link is tapped */
+    nav.querySelectorAll('.nav-link').forEach(function (link) {
+      link.addEventListener('click', function () {
+        nav.classList.remove('open');
+        toggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+
+    /* Close nav on outside click */
+    document.addEventListener('click', function (e) {
+      if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+        nav.classList.remove('open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
+
+  /* ---------- Sticky header: add shadow on scroll ---------- */
+  const header = document.querySelector('.site-header');
+  if (header) {
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > 16) {
+        header.style.boxShadow = '0 2px 16px rgba(0,0,0,0.45)';
+      } else {
+        header.style.boxShadow = 'none';
+      }
+    }, { passive: true });
+  }
+
+  /* ---------- Intersection Observer: fade-in sections ---------- */
+  const style = document.createElement('style');
+  style.textContent = `
+    .fade-in-section {
+      opacity: 0;
+      transform: translateY(28px);
+      transition: opacity 0.55s ease, transform 0.55s ease;
+    }
+    .fade-in-section.visible {
+      opacity: 1;
+      transform: none;
+    }
+  `;
+  document.head.appendChild(style);
+
+  const sections = document.querySelectorAll(
+    '.about-strip, .characters, .videos, .socials'
+  );
+  sections.forEach(function (sec) {
+    sec.classList.add('fade-in-section');
+  });
+
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.12 }
+    );
+    sections.forEach(function (sec) { observer.observe(sec); });
+  } else {
+    /* Fallback for older browsers */
+    sections.forEach(function (sec) { sec.classList.add('visible'); });
+  }
+
+  /* ---------- Character card: stagger delay ---------- */
+  document.querySelectorAll('.character-card').forEach(function (card, i) {
+    card.style.transitionDelay = (i * 0.08) + 's';
+  });
+
+})();
